@@ -46,3 +46,5 @@ You can import `AlphaPicker` `BlockPicker` `ChromePicker` `CirclePicker` `Compac
 [downloads-url]: http://npm-stat.com/charts.html?package=react-color
 [npm-version-image]: https://img.shields.io/npm/v/react-color.svg
 [npm-version-url]: https://www.npmjs.com/package/react-color
+
+This repository was forked/cloned and modified as part of an internship GitHub learning exercise.
